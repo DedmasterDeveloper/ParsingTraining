@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAttempt", "FirstAttemp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingWebBrowser", "ParsingWebBrowser\ParsingWebBrowser.csproj", "{81052EF3-71B5-4DB3-9CCF-E7EE79B3065D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankiRuJsonParsing", "BankiRuJsonParsing\BankiRuJsonParsing.csproj", "{557A6BA0-9C7B-4D44-A8DF-AF79F668FB66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81052EF3-71B5-4DB3-9CCF-E7EE79B3065D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81052EF3-71B5-4DB3-9CCF-E7EE79B3065D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81052EF3-71B5-4DB3-9CCF-E7EE79B3065D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557A6BA0-9C7B-4D44-A8DF-AF79F668FB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557A6BA0-9C7B-4D44-A8DF-AF79F668FB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557A6BA0-9C7B-4D44-A8DF-AF79F668FB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557A6BA0-9C7B-4D44-A8DF-AF79F668FB66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
